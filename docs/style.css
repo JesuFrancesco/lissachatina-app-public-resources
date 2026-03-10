@@ -1,0 +1,30 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    font-family: Arial;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+#file-list {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 6px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+a {
+    text-decoration: none;
+    color: #0366d6;
+}
+
+.folder {
+    font-weight: bold;
+}
+
